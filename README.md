@@ -1,8 +1,7 @@
-# Algoritmo-y-estructura-de-datos
-Algoritmos y Estructuras de Datos
-1. Curso.
-2. Año de cursada, y cuatrimestre si corresponde.
-3. Legajo.
-4. Apellido.
-5. Nombre.
+# Algoritmo y estructura de datos
+* Curso: K1051
+* Año de cursada: 2022
+* Legajo: 2036496
+* Apellido: Garcés Durán
+* Nombre: Juan Martín
 
